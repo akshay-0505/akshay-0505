@@ -11,7 +11,7 @@ Working at [eQ Technologic](https://www.1eq.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/akshay-gadhave-6524a0194/)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/dev-akshay/)
 - [![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=dev.to&logoColor=white&style=flat-square)](https://dev.to/akshay0505)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/akshay0505)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/#)
 
 ---
 
